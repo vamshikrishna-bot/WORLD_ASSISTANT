@@ -111,3 +111,6 @@ while True:
     })
 
     print("bot : ", result["messages"][-1].text)
+
+
+# https://world-assistant.onrender.com/
